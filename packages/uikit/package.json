@@ -1,7 +1,6 @@
 {
   "name": "@exam/uikit",
   "version": "0.0.1",
-  "description": "Mizan packages library",
   "main": "index.js",
   "types": "src/index.js",
   "scripts": {

@@ -177,7 +177,7 @@
     "@cypress/react": "5.11.0",
     "@emotion/babel-preset-css-prop": "11.2.0",
     "@emotion/eslint-plugin": "11.7.0",
-    "@exam/eslint-config": "git+https://mizan:o47d-bazS_xGacGgbeys@git.inre.ir/frontend/eslint-config.git",
+    "@exam/eslint-config": "git+https://site.ir/frontend/eslint-config.git",
     "@next/bundle-analyzer": "12.0.7",
     "@storybook/addon-a11y": "6.4.9",
     "@storybook/addon-actions": "6.4.9",
