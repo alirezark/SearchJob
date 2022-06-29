@@ -1,0 +1,34 @@
+{
+  "name": "@exam/uikit",
+  "version": "0.0.1",
+  "description": "Mizan packages library",
+  "main": "index.js",
+  "types": "src/index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "packages/webSite-uikit"
+  },
+  "keywords": [
+    "webSite",
+    "react",
+    "material-ui",
+    "uikit"
+  ],
+  "author": "webSite Front Team",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/material": "^5.6.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@mui/material": "^5.2.5",
+    "babel-preset-react-app": "^10.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: YekanBakh;
+    src: url('FaNum/Yekan Bakh FaNum 04 Regular.eot');
+    src: url('FaNum/Yekan Bakh FaNum 04 Regular.eot?#iefix') format('embedded-opentype'),
+    url('FaNum/Yekan Bakh FaNum 04 Regular.woff') format('woff'),
+    url('FaNum/Yekan Bakh FaNum 04 Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    src: url('FaNum/Yekan Bakh FaNum 05 Medium.eot');
+    src: url('FaNum/Yekan Bakh FaNum 05 Medium.eot?#iefix') format('embedded-opentype'),
+    url('FaNum/Yekan Bakh FaNum 05 Medium.woff') format('woff'),
+    url('FaNum/Yekan Bakh FaNum 05 Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    src: url('FaNum/Yekan Bakh FaNum 06 Bold.eot');
+    src: url('FaNum/Yekan Bakh FaNum 06 Bold.eot?#iefix') format('embedded-opentype'),
+    url('FaNum/Yekan Bakh FaNum 06 Bold.woff') format('woff'),
+    url('FaNum/Yekan Bakh FaNum 06 Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    src: url('FaNum/Yekan Bakh FaNum 07 Heavy.eot');
+    src: url('FaNum/Yekan Bakh FaNum 07 Heavy.eot?#iefix') format('embedded-opentype'),
+    url('FaNum/Yekan Bakh FaNum 07 Heavy.woff') format('woff'),
+    url('FaNum/Yekan Bakh FaNum 07 Heavy.ttf') format('truetype');
+    font-weight: 900;
+}

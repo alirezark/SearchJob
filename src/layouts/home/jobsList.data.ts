@@ -1,0 +1,76 @@
+const jobs = [
+  {
+    title: 'عناوین شغلی',
+    links: [
+      { title: 'استخدام برنامه‌نویس', address: '/search/برنامه نویس' },
+      { title: 'استخدام حسابدار', address: '/search/حسابدار' },
+      { title: 'استخدام مهندس عمران', address: '/search/مهندس عمران' },
+      { title: 'استخدام برنامه‌نویس پایتون', address: '/search/پایتون' },
+      { title: 'استخدام بازاریاب', address: '/search/بازاریاب' },
+      { title: 'استخدام کارشناس فروش', address: '/search/کارشناس فروش' },
+      { title: 'استخدام برنامه‌نویس اندروید', address: '/search/اندروید' },
+      { title: 'استخدام کارشناس مارکتینگ', address: '/search/مارکتینگ' },
+      { title: 'استخدام گرافیست', address: '/search/گرافیست' },
+      { title: 'استخدام کارشناس تولید محتوا', address: '/search/تولید محتوا' },
+    ],
+  },
+  {
+    title: 'موقعیت مکانی',
+    links: [
+      { title: 'استخدام در تهران', address: '/search/?province=8' },
+      { title: 'استخدام در البرز', address: '/search/?province=5' },
+      { title: 'استخدام در خراسان رضوی', address: '/search/?province=11' },
+      { title: 'استخدام در فارس', address: '/search/?province=17' },
+      { title: 'استخدام در اصفهان', address: '/search/?province=4' },
+      { title: 'استخدام در قزوین', address: '/search/?province=18' },
+      { title: 'استخدام در یزد', address: '/search/?province=31' },
+      { title: 'استخدام در آذربایجان شرقی', address: '/search/?province=1' },
+      { title: 'استخدام در همدان', address: '/search/?province=30' },
+      { title: 'استخدام در بوشهر', address: '/search/?province=7' },
+    ],
+  },
+  {
+    title: 'شیوه همکاری',
+    links: [
+      { title: 'دورکاری', address: '/search/دورکاری' },
+      { title: 'تمام‌وقت', address: '/search/تمام وقت' },
+      { title: 'پاره‌وقت', address: '/search/پاره وقت' },
+      { title: 'مشاوره‌ای', address: '/search/مشاوره ای' },
+      { title: 'کارآموزی', address: '/search/کارآموزی' },
+      { title: 'پروژه‌ای', address: '/search/پروژه ای' },
+      { title: 'قراردادی', address: '/search/قراردادی' },
+    ],
+  },
+  {
+    title: 'گروه‌های شغلی',
+    links: [
+      { title: 'استخدام برنامه‌نویس', address: '/search/برنامه نویس' },
+      { title: 'استخدام تحلیل کسب‌و‌کار', address: '/search/تحلیل کسب و کار' },
+      { title: 'استخدام بازاریابی دیجیتال', address: '/search/بازاریابی دیجیتال' },
+      { title: 'استخدام طراحی هنر', address: '/search/طراحی هنر' },
+      { title: 'استخدام سخت‌افزار و شبکه', address: '/search/سخت‌افزار و شبکه' },
+      { title: 'استخدام برق و الکترونیک', address: '/search/برق و الکترونیک' },
+      { title: 'استخدام پشتیبانی مشتریان', address: '/search/پشتیبانی مشتریان' },
+      { title: 'استخدام منابع انسانی', address: '/search/منابع انسانی' },
+      { title: 'استخدام بازرگانی', address: '/search/بازرگانی' },
+      { title: 'استخدام مدیریت و کنترل پروژه', address: '/search/مدیریت و کنترل پروژه' },
+    ],
+  },
+  {
+    title: 'کسب‌و‌کارها',
+    links: [
+      { title: 'استخدام در گلستان', address: '/company/iTbkP/گلستان' },
+      { title: 'استخدام در گلدیران', address: '/company/qiLq5/گلدیران' },
+      { title: 'استخدام در رونیکس', address: '/company/apfod/رونیکس' },
+      { title: 'استخدام در ایرانسل', address: '/company/2vNt2/ايرانسل' },
+      { title: 'استخدام در نوبیتکس', address: '/company/Luupv/نوبیتکس' },
+      { title: 'استخدام در بهسازان مجازی', address: '/company/sL0De/بهسازان-مجازی' },
+      { title: 'استخدام در اسنپ فود', address: '/company/u6Kij/اسنپ-فود' },
+      { title: 'استخدام در یکتاصد', address: '/company/d0jDu/یکتاصد' },
+      { title: 'استخدام در پرشیا خودرو', address: '/company/CSZL2/پرشیا-خودرو' },
+      { title: 'استخدام در 780', address: '/company/pNWCZ/هف-هشتاد' },
+    ],
+  },
+];
+
+export default jobs;

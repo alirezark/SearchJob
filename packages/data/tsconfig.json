@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declarationDir": "dist",
+    "declaration": true,
+    "outDir": "compiled",
+    "rootDirs": ["."],
+    "typeRoots": ["node_modules/@types", "types"]
+  },
+  "exclude": ["dist", "node_modules"],
+  "include": [
+    "src/**/*.ts*",
+  ]
+}
